@@ -10,7 +10,7 @@ namespace secondProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Worldhgj");
+            Console.WriteLine("Hello This is Akshay Prajpati");
         }
     }
 }
